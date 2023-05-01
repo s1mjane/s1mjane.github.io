@@ -19,7 +19,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "en-US"
 title                    : "S1mjane's github blog"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "2023-1 week9 OSS project"
 name                     : "Jane"
 description              : "An amazing website."
 url                      : "https://s1mjane.github.io"
@@ -105,15 +105,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "S1m jane"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  location         : "Phohang-si"
+  email            : "s1mjane@handong.ac.kr"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      url: "s1mjane@handong.ac.kr"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -125,7 +125,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/s1mjane/s1mjane.github.io.git"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
@@ -141,7 +141,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      url: "https://github.com/s1mjane/s1mjane.github.io.git"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
